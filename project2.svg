@@ -1,0 +1,10 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" fill="#111417"/>
+  <rect x="0" y="0" width="1200" height="900" fill="#e7d4ff" opacity="0.15"/>
+  <circle cx="900" cy="210" r="180" fill="#ff8a5b" opacity="0.7"/>
+  <circle cx="280" cy="690" r="220" fill="#8d67ff" opacity="0.7"/>
+  <rect x="120" y="150" width="960" height="600" rx="34" fill="#ffffff" opacity="0.08" stroke="#ffffff" stroke-opacity="0.22"/>
+  <text x="180" y="340" font-family="Arial, sans-serif" font-size="74" font-weight="700" fill="#ffffff">PROJECT 2</text>
+  <text x="180" y="470" font-family="Arial, sans-serif" font-size="54" font-weight="700" fill="#ffd7c8">SOCIAL CAMPAIGN</text>
+  <text x="180" y="560" font-family="Arial, sans-serif" font-size="34" fill="#ffffff">BRAND STORY • CONTENT DESIGN</text>
+</svg>

@@ -1,0 +1,9 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" fill="#101418"/>
+  <rect x="140" y="120" width="920" height="660" rx="28" fill="#f4f0f7"/>
+  <circle cx="420" cy="325" r="170" fill="#8d67ff" opacity="0.18"/>
+  <circle cx="760" cy="520" r="190" fill="#ff7d5c" opacity="0.12"/>
+  <text x="180" y="350" font-family="Arial, sans-serif" font-size="72" font-weight="700" fill="#111417">PROJECT 5</text>
+  <text x="180" y="470" font-family="Arial, sans-serif" font-size="52" font-weight="700" fill="#4c3d77">VELOURA APP</text>
+  <text x="180" y="560" font-family="Arial, sans-serif" font-size="34" fill="#3e4650">UI DESIGN • MOBILE INTERFACE</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g1" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#181c22"/>
+      <stop offset="100%" stop-color="#2a183a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#g1)"/>
+  <rect x="100" y="110" width="1000" height="680" rx="40" fill="none" stroke="#ffffff" stroke-opacity="0.45" stroke-width="3"/>
+  <rect x="170" y="200" width="860" height="500" rx="32" fill="rgba(255,255,255,0.05)" stroke="#ffffff" stroke-opacity="0.25"/>
+  <text x="190" y="350" font-family="Arial, sans-serif" font-size="72" font-weight="700" fill="#ffffff">PROJECT 1</text>
+  <text x="190" y="470" font-family="Arial, sans-serif" font-size="54" font-weight="700" fill="#d9c1ff">PASINDU PIYUMAL</text>
+  <text x="190" y="560" font-family="Arial, sans-serif" font-size="36" fill="#ffffff">GRAPHIC DESIGN</text>
+</svg>

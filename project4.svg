@@ -1,0 +1,10 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" fill="#15191c"/>
+  <rect x="0" y="0" width="1200" height="900" fill="#2b1f3d" opacity="0.7"/>
+  <circle cx="250" cy="250" r="200" fill="#ff7d5c" opacity="0.7"/>
+  <circle cx="950" cy="680" r="210" fill="#8d67ff" opacity="0.8"/>
+  <rect x="140" y="120" width="920" height="660" rx="30" fill="#ffffff" opacity="0.08" stroke="#ffffff" stroke-opacity="0.2"/>
+  <text x="180" y="350" font-family="Arial, sans-serif" font-size="72" font-weight="700" fill="#ffffff">PROJECT 4</text>
+  <text x="180" y="470" font-family="Arial, sans-serif" font-size="54" font-weight="700" fill="#ffd2c1">MIDNIGHT SERIES</text>
+  <text x="180" y="560" font-family="Arial, sans-serif" font-size="34" fill="#ffffff">POSTER DESIGN • EVENT IDENTITY</text>
+</svg>
